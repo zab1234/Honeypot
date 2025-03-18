@@ -8,3 +8,7 @@ First I created a new GCP project labelled TPot and created a new e2-standard-2 
 I then created a new firewall rule that allowed traffic from ANY IP to ANY port so that attackers could access the honypot.
 
 ![image](https://github.com/user-attachments/assets/94bde67f-ccaf-492b-bf31-feb794f7ec5b)
+
+Nexted I SSH into the VM instance I created and update the VM to ensure packages are up to date.
+
+![image](https://github.com/user-attachments/assets/6d1fdbff-1425-4ee0-9f8b-eb5f69ea5856)
