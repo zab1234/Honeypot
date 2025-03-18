@@ -6,4 +6,5 @@ First I created a new GCP project labelled TPot and created a new e2-standard-2 
 ![image](https://github.com/user-attachments/assets/874d38a4-b0f3-4648-996c-7a693287bfdf)
 
 I then created a new firewall rule that allowed traffic from ANY IP to ANY port so that attackers could access the honypot.
+
 ![image](https://github.com/user-attachments/assets/94bde67f-ccaf-492b-bf31-feb794f7ec5b)
