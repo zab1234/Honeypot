@@ -9,6 +9,11 @@ I then created a new firewall rule that allowed traffic from ANY IP to ANY port 
 
 ![image](https://github.com/user-attachments/assets/94bde67f-ccaf-492b-bf31-feb794f7ec5b)
 
-Nexted I SSH into the VM instance I created and update the VM to ensure packages are up to date.
+Next I SSHed into the VM instance I created and updated the packages with apt.
 
 ![image](https://github.com/user-attachments/assets/6d1fdbff-1425-4ee0-9f8b-eb5f69ea5856)
+
+For remote access through my personal machine I configured and tested public key ssh access
+
+![image](https://github.com/user-attachments/assets/df77eb38-3679-415b-82fe-d2b89a7b9e67)
+![image](https://github.com/user-attachments/assets/a0f5c2e0-58a8-4a8b-bff4-c41eb94390ac)
