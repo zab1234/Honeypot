@@ -17,3 +17,7 @@ For remote access through my personal machine I configured and tested public key
 
 ![image](https://github.com/user-attachments/assets/df77eb38-3679-415b-82fe-d2b89a7b9e67)
 ![image](https://github.com/user-attachments/assets/a0f5c2e0-58a8-4a8b-bff4-c41eb94390ac)
+
+I then used apt to install git and cloned the tpot repo, which I will be using for hostingand managing my honeypot as well as aggregating and analyzing malicious traffic directed towards it.
+
+![image](https://github.com/user-attachments/assets/46247a75-0675-4e7e-8201-aae5cee6d598)
