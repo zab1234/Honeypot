@@ -1,5 +1,5 @@
-# Honeypot
-Creating a honeypot using TPot in a GCP compute instance. Goals of this project is to discover malicious traffic to my instance and visualize it to garner insights.
+# Honeypot Implementation Project/Guide
+Creating a honeypot using TPot in a GCP compute instance. Goal of this project is to discover malicious traffic to my instance and visualize it to garner insights and gain hands on experience in implementing a honeypot. Feel free to use the following as a guide to implementing your own honeypot!
 
 First I created a new GCP project labelled TPot and created a new e2-standard-2 VM instance on the Debian GNU/Linux 11 (bullseye) distro with a 128 GB disk named tpot-a.
 
@@ -18,6 +18,9 @@ For remote access through my personal machine I configured and tested public key
 ![image](https://github.com/user-attachments/assets/df77eb38-3679-415b-82fe-d2b89a7b9e67)
 ![image](https://github.com/user-attachments/assets/a0f5c2e0-58a8-4a8b-bff4-c41eb94390ac)
 
-I then used apt to install git and cloned the tpot repo, which I will be using for hostingand managing my honeypot as well as aggregating and analyzing malicious traffic directed towards it.
+I then used apt to install git and cloned the tpot repo, which I will be using for hosting and managing my honeypot as well as aggregating and analyzing malicious traffic directed towards it. After downloading the repo I ran the install script before choosing the hive installation option when prompted.
 
 ![image](https://github.com/user-attachments/assets/46247a75-0675-4e7e-8201-aae5cee6d598)
+![image](https://github.com/user-attachments/assets/3f82b7dd-8465-4f41-b940-05d1a97690bd)
+
+
