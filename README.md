@@ -18,7 +18,7 @@ For remote access through my personal machine I configured and tested public key
 ![image](https://github.com/user-attachments/assets/df77eb38-3679-415b-82fe-d2b89a7b9e67)
 ![image](https://github.com/user-attachments/assets/a0f5c2e0-58a8-4a8b-bff4-c41eb94390ac)
 
-I then used apt to install git and cloned the tpot repo, which I will be using for hosting and managing my honeypot as well as aggregating and analyzing malicious traffic directed towards it. After downloading the repo I ran the install script before choosing the hive installation option when prompted. When prompted for a web username and password I entered credentials that will be used later in the project.
+I then used apt to install git and cloned the tpot repo, which I will be using for hosting and managing my honeypot as well as aggregating and analyzing malicious traffic directed towards it. After downloading the repo I ran the install script before choosing the hive installation option when prompted. When prompted for a web username and password I entered credentials that will be used later in the project. Post install I rebooted the VM and re-connected via SSH over tcp/64295 as prompted.
 
 ![image](https://github.com/user-attachments/assets/46247a75-0675-4e7e-8201-aae5cee6d598)
 ![image](https://github.com/user-attachments/assets/3f82b7dd-8465-4f41-b940-05d1a97690bd)
