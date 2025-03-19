@@ -23,4 +23,9 @@ I then used apt to install git and cloned the tpot repo, which I will be using f
 ![image](https://github.com/user-attachments/assets/46247a75-0675-4e7e-8201-aae5cee6d598)
 ![image](https://github.com/user-attachments/assets/3f82b7dd-8465-4f41-b940-05d1a97690bd)
 
+After restarting the VM and connecting through the specififed port I double checked the status of tpot.
+
+![image](https://github.com/user-attachments/assets/db3e08d7-5e39-468c-b8f5-5b2272248c69)
+
+
 
