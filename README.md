@@ -27,5 +27,10 @@ After restarting the VM and connecting through the specififed port I double chec
 
 ![image](https://github.com/user-attachments/assets/db3e08d7-5e39-468c-b8f5-5b2272248c69)
 
+Connecting to the web page at https://<ip>:64297/ and entering the web credentials I established on setup I can view multiple different dashboards of traffic to my tpot.
+
+![image](https://github.com/user-attachments/assets/23bdff74-29df-4370-ad32-c8e35b7e4e47)
+
+With everything prepared I enabled the firewall rule I created earlier opening the honeypot to external traffic. 
 
 
