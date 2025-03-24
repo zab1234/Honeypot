@@ -28,5 +28,17 @@ Before starting the honeypot service I navigate to the compose directory and uti
 ![image](https://github.com/user-attachments/assets/aa0d1bb6-c5ad-45b2-b5a9-6104d9537752)
 ![image](https://github.com/user-attachments/assets/ab915238-f689-4e63-99ff-e4d2199d5f51)
 
+To test this new configuration I install docker-compose and copy the new configuration file into ~/tpotce. By running docker-compose with the new configuration file I can see if there are any bugs. I discovered that heralding was unable to bind to port 25 due to it already being in use. For now I will simply be changing the config file to ignore port 25.
+
+![image](https://github.com/user-attachments/assets/4624da89-61d1-49e5-a88c-f2a5e59b0d1c)
+![image](https://github.com/user-attachments/assets/bfd3bcf8-1de1-4f66-92d7-20bbcac54847)
+![image](https://github.com/user-attachments/assets/e7d7d444-85fd-43c2-847d-e2e12603b9ed)
+
+Now I will try again to run tpot from this config file. I also ended up removing spiderfoot because it requires extra setup and I want to get things running first.
+
+
+
+
+
 
 
