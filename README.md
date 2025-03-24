@@ -39,6 +39,9 @@ Now I will try again to run tpot from this config file. I also ended up removing
 ![image](https://github.com/user-attachments/assets/d109cd14-4301-4097-afbd-4ada6fda7c48)
 ![image](https://github.com/user-attachments/assets/628a6db2-5f65-473a-9718-5b9fd17d9261)
 
+Within minutes my machine was discovered and is being hammered by ssh authentication attempts from two hosts in China.
+
+![image](https://github.com/user-attachments/assets/f28d9c30-c773-48ed-b81b-abac47f34d33)
 
 
 
