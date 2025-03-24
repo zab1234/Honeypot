@@ -34,10 +34,10 @@ To test this new configuration I install docker-compose and copy the new configu
 ![image](https://github.com/user-attachments/assets/bfd3bcf8-1de1-4f66-92d7-20bbcac54847)
 ![image](https://github.com/user-attachments/assets/e7d7d444-85fd-43c2-847d-e2e12603b9ed)
 
-Now I will try again to run tpot from this config file. I also ended up removing spiderfoot because it requires extra setup and I want to get things running first.
+Now I will try again to run tpot from this config file. I also ended up removing spiderfoot because it requires extra setup and I want to get things running first. I forgot to screenshot but the new configuration worked correctly. I then copied it to the docker-compose.yml file and rebooted the system before starting the tpot service. Connecting to the web UI and putting in my credentials I can now see the attack dashboards. As you can see traffic is already hitting my machine with multiple ssh login attempts originating from an IP in China.
 
-
-
+![image](https://github.com/user-attachments/assets/d109cd14-4301-4097-afbd-4ada6fda7c48)
+![image](https://github.com/user-attachments/assets/628a6db2-5f65-473a-9718-5b9fd17d9261)
 
 
 
