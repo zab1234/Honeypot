@@ -43,5 +43,9 @@ Within minutes my machine was discovered and is being hammered by ssh authentica
 
 ![image](https://github.com/user-attachments/assets/f28d9c30-c773-48ed-b81b-abac47f34d33)
 
+In 24 hours I received over 12,000 authentication attempts to both ssh and telnet. Curiously, the most authentication attempts came from Poland, China and the United States. I expected more traffic originating from Russia, but this remained relatively low. I was also interested in the fact that The Netherlands made up the 4th most requests. I am interested in what percentage of this traffic is blackhat and how much could possibly be whitehat traffic attempting to help warn administrators of vulnerable systems.
+
+![image](https://github.com/user-attachments/assets/ea0c7f6e-d422-48ee-bf22-e1428e48ada0)
+
 
 
